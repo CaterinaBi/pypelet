@@ -1,4 +1,4 @@
-# PypeLet - a large multilingual corpus of spoken interactions in the Romance languages.
+# PypeLet - A large multilingual corpus of spoken interactions in the Romance languages.
 
 A cooperative project that utilises NLP techniques for the creation of an open-source corpus of spoken interactions in Romance, and a user-friendly platform to access it.
 
